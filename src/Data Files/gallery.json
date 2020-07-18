@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Adventure",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Advertising",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Architecture",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Event",
+        "pic1": "/event 1.jpg",
+        "pic2": "/event 2.jpg",
+        "pic3": "/event 3.jpg"
+    },
+    {
+        "name": "Fashion",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Fine Art",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Food",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Glamour",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Landscape",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Lifestyle",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Mobile",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "New Born",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Night",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Pet",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Photojournalism",
+        "pic1": "/photo journalism 1.jpg",
+        "pic2": "/photo journalism 2.jpg",
+        "pic3": "/photo journalism 3.jpg"
+    },
+    {
+        "name": "Portrait",
+        "pic1": "/portrait 1.jpg",
+        "pic2": "/portrait 2.jpg",
+        "pic3": "/portrait 3.jpg"
+    },
+    {
+        "name": "Product",
+        "pic1": "/product 1.jpg",
+        "pic2": "/product 2.jpg",
+        "pic3": "/product 3.jpg"
+    },
+    {
+        "name": "Real Estate",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Seascape",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Sports",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Stock",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Travel",
+        "pic1": "/candid 1.jpg",
+        "pic2": "/candid 2.jpg",
+        "pic3": "/candid 3.jpg"
+    },
+    {
+        "name": "Wedding",
+        "pic1": "/wedding 1.jpg",
+        "pic2": "/wedding 2.jpg",
+        "pic3": "/wedding 3.jpg"
+    },
+    {
+        "name": "Wildlife",
+        "pic1": "/wildlife 1.jpg",
+        "pic2": "/wildlife 2.jpg",
+        "pic3": "/wildlife 3.jpg"
+    }
+]

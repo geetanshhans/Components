@@ -1,0 +1,28 @@
+.Head1 {
+    color: var(--text-color-1);
+    text-align: center;
+    font-weight: bold;
+    font-size: 125%;
+    margin-top: 5%;
+}
+
+.line3 {
+    color: var(--text-color-1);
+    text-align: center;
+    margin-top: -1.25%;
+}
+
+.working {
+    padding-left: 50px;
+}
+
+.book_btn {
+    align-content: center;
+    width: 10%;
+    margin: 0% 45% 0% 45%;
+    padding: 10px 10px;
+    margin-bottom: 5%;
+    border-radius: 5px;
+    font-weight: bold;
+}
+

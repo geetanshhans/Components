@@ -1,0 +1,42 @@
+.gallery_images {
+    display: inline-block;
+    margin: 1%
+}
+
+.select {
+    cursor: pointer;
+    border: none;
+    border-radius: 11px;
+    outline: none;
+    width: 356px;
+    height: 187px;
+    padding: 0;
+}
+
+.pic1 {
+    display: inline-block;
+    position: absolute;
+    border-radius: 11px 0px 0px 11px;
+}
+
+.pic2 {
+    display: block;
+    position: relative;
+    left: 240px;
+    border-radius: 0px 11px 0px 0px;
+    margin-bottom: 2px;
+}
+
+.pic3 {
+    display: block;
+    position: relative;
+    left: 240px;
+    border-radius: 0px 0px 11px 0px;
+}
+
+.PicName {
+    color: var(--text-color-1);
+    width: 350px;
+    margin-top: -2px;
+    font-weight: bold;
+}

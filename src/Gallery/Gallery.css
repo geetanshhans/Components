@@ -1,0 +1,24 @@
+.gallery_head {
+    width: 100%;
+    height: 100%;
+}
+
+.gallery_title {
+    color: var(--text-color-1);
+    position: absolute;
+    left: 100px;
+    top: 125px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.gallery_content {
+    color: var(--text-color);
+    position: absolute;
+    left: 100px;
+    top: 160px;
+}
+
+.spacing {
+    margin: 5% 0% 0% 5%;
+}

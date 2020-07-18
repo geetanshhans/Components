@@ -1,0 +1,29 @@
+.book_background {
+    width: 100%;
+    max-height: 100%;
+    position: absolute;
+    z-index: -4;
+    margin: 0;
+    padding: 0;
+}
+
+.book_box {
+    background-color: var(--button-text-hover);
+    position: relative;
+    opacity: 0.3;
+    margin-top: 150px;
+    width: 600px;
+    height: 300px;
+    border-radius: 15px;
+    padding: 15px;
+    display: flex;
+    z-index: -3;
+}
+
+.dots {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: var(--text-color-1);
+    background-color: var(--text-color);
+}

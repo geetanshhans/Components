@@ -1,0 +1,27 @@
+.field {
+    cursor: pointer;
+    padding: 0;
+    border: none;
+    margin: 1% 10px;
+    outline: none;
+    width: 356px;
+    height: 187px;
+    border-radius: 11px;
+    display: inline-block;
+}
+
+.portfolio {
+    width: 356px;
+    height: 187px;
+    border-radius: 11px;
+}
+
+.naming {
+    color: var(--text-color);
+    margin-top: -12%;
+    font-size: 25px;
+}
+
+.field:hover {
+    box-shadow: none;
+}

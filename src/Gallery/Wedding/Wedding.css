@@ -1,0 +1,24 @@
+.wedding_head {
+    width: 100%;
+    height: 100%;
+}
+
+.wedding_title {
+    color: var(--text-color);
+    position: absolute;
+    left: 100px;
+    top: 125px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.wedding_content {
+    color: var(--text-color);
+    position: absolute;
+    left: 100px;
+    top: 160px;
+}
+
+.spacing {
+    margin: 5% 0% 0% 5%;
+}

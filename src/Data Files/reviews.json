@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "Name": "Customer1",
+            "Stars": 5,
+            "Comments": "GetPIX is quite efficient and helped me to gain confidence"
+        },
+        {
+            "Name": "Customer2",
+            "Stars": 5,
+            "Comments": "GetPIX is quite efficient and helped me to gain confidence"
+        }
+    ],
+    [
+        {
+            "Name": "Customer3",
+            "Stars": 5,
+            "Comments": ""
+        },
+        {
+            "Name": "Customer4",
+            "Stars": 5,
+            "Comments": ""
+        }
+    ],
+    [
+        {
+            "Name": "Customer5",
+            "Stars": 5,
+            "Comments": ""
+        },
+        {
+            "Name": "Customer6",
+            "Stars": 5,
+            "Comments": ""
+        }
+    ]
+]

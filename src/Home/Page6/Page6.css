@@ -1,0 +1,12 @@
+.feature_back {
+   max-width: 100%;
+}
+
+.features_head {
+    text-align: center;
+    color: var(--text-color);
+    position: relative;
+    top: -450px;
+    font-weight: bolder;
+    font-size: 150%;
+}

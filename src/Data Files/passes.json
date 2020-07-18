@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "name": "Adventure",
+            "image": "/adventure.jpg"
+        },
+        {
+            "name": "Advertising",
+            "image": "/advertising.jpg"
+        },
+        {
+            "name": "Architecture",
+            "image": "/architecture.jpg"
+        },
+        {
+            "name": "Event",
+            "image": "/event.jpg"
+        },
+        {
+            "name": "Fashion",
+            "image": "/fashion.jpg"
+        },
+        {
+            "name": "Fine Art",
+            "image": "/fine art.jpg"
+        }
+    ],
+    [
+        {
+            "name": "Food",
+            "image": "/food.jpg"
+        },
+        {
+            "name": "Glamour",
+            "image": "/glamour.jpg"
+        },
+        {
+            "name": "Landscape",
+            "image": "/landscape.jpg"
+        },
+        {
+            "name": "Lifestyle",
+            "image": "/lifestyle.jpg"
+        },
+        {
+            "name": "Mobile",
+            "image": "/mobile.jpg"
+        },
+        {
+            "name": "New Born",
+            "image": "/new born.jpg"
+        }
+    ],
+    [
+        {
+            "name": "Night",
+            "image": "/night.jpg"
+        },
+        {
+            "name": "Pet",
+            "image": "/pet.jpg"
+        },
+        {
+            "name": "Photojournalism",
+            "image": "/photojournalism.jpg"
+        },
+        {
+            "name": "Portrait",
+            "image": "/portrait.jpg"
+        },
+        {
+            "name": "Product",
+            "image": "/product.jpg"
+        },
+        {
+            "name": "Real Estate",
+            "image": "/real estate.jpg"
+        }
+    ],
+    [
+        {
+            "name": "Sea Scape",
+            "image": "/seascape.jpg"
+        },
+        {
+            "name": "Sports",
+            "image": "/sports.jpg"
+        },
+        {
+            "name": "Stock",
+            "image": "/stock.jpg"
+        },
+        {
+            "name": "Travel",
+            "image": "/travel.jpg"
+        },
+        {
+            "name": "Wedding",
+            "image": "/wedding.jpg"
+        },
+        {
+            "name": "Wildlife",
+            "image": "/wildlife.jpg"
+        }
+    ]
+]

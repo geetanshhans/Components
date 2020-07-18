@@ -1,0 +1,39 @@
+.single {
+    display: inline-block;
+    margin: 2.5% 0% 0% 3%;
+}
+
+.image {
+    width: 325px;
+    height: 15.5%;
+    margin: 5% 2.5%;
+    margin-left: 4%;
+    border-radius: 11px;
+    
+}
+
+.number {
+    color: var(--text-color-2);
+    font-weight: bolder;
+    font-size: 425%;
+    margin-top: -90px;
+    margin-left: 5%;
+    width: 75px;
+}
+
+.title {
+    color: var(--text-color-2);
+    font-size: 150%;
+    font-weight: bolder;
+    margin-top: -155px;
+    margin-left: 90px;
+    width: 200px;
+}
+
+.text {
+    color: var(--text-color-1);
+    font-size: 100%;
+    margin-top: -25px;
+    margin-left: 25px;
+    width: 200px;
+}

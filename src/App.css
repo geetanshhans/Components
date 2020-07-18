@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  --text-color: #ffffff;
+  --text-color-hover: #303030;
+  --button-color: #2CC3C7;
+  --button-text: #ffffff;
+  --button-text-hover: #000000;
+  --text-color-1: #0d034f;
+  --text-color-2: #2CC3C7;
+}

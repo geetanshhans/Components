@@ -1,0 +1,17 @@
+.picture_wed {
+    display: inline-block;
+    position: relative;
+    border-radius: 11px;
+    margin-right: 25px;
+}
+.gallery_images {
+    display: inline-block;
+    margin: 1%
+}
+
+.PhotoName {
+    color: var(--text-color-1);
+    width: 300px;
+    margin-top: -2px;
+    font-weight: bold;
+}

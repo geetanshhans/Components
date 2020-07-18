@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+
+button {
+    outline: none;
+    background-color: var(--button-color);
+    color: var(--button-text);
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    border: var(--button-color);
+    box-shadow: 5px 5px 18px var(--button-color);
+    background-color: var(--button-text);
+    color: var(--text-color-2);
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+

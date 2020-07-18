@@ -1,0 +1,117 @@
+.login_image {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50%;
+    height: 90%;
+}
+
+.details {
+    display: inline-block;
+    width: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.login_head {
+    color: var(--text-color-1);
+    display: relative;
+    width: 30%;
+    font-weight: bolder;
+    font-size: 200%;
+    margin:17% 0% 0% 35%;
+}
+
+.network {
+    color:var(--text-color-1);
+    width: 50%;
+    margin: 0% 0% 0% 25%;
+}
+.line {
+    width: 35%;
+    display: inline-block;
+    margin-top: 5.75%;
+    color: grey;
+}
+.or {
+    color: grey;
+    display: inline-block;
+    margin-top: 5%;
+    font-style: italic;
+}
+.icons {
+    border: none;
+    outline: none;
+    padding: 15px 12px;
+    border-radius: 5px;
+    width: 125px;
+    background-color: var(--button-color);
+    color: var(--text-color);
+    margin:3% 0% 0% 5%;
+    cursor: pointer;
+}
+
+input{
+    box-sizing: border-box;
+    width: 60%;
+    height: calc(3em + 2px);
+    padding: 6px;
+    border: 1px solid var(--text-color-2);
+    border-radius: 5px;
+    background: #fff;
+      font-size: 16px;
+    resize: none;
+    outline: none;
+}
+input:focus + label[placeholder]:before {
+    color: var(--text-color-2);
+}
+input:focus + label[placeholder]:before,
+input:valid + label[placeholder]:before {
+    transition-duration: .2s;
+    transform: translate(0, -1.6em) scale(0.9, 0.9);	
+      font-weight: bold;
+}
+input:valid {
+    border-color: green;
+}
+input:valid + label[placeholder]:before {
+    color: green;
+}
+input:invalid + label[placeholder][alt]:before {
+    content: attr(alt);
+}
+input  + label[placeholder] {
+    display: block;	
+    pointer-events: none;
+    line-height: 1.25em;
+    margin: -17% 0% 0% 1%;
+}
+input  + label[placeholder]:before {
+    content: attr(placeholder);
+    display: inline-block;
+    margin: 8% 0% 0% 2%;
+    padding: 0 2px;
+    color: #7d7d7d;
+    white-space: nowrap;
+    transition: 0.3s ease-in-out;
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+    background-size: 100% 5px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.login_click {
+    width: 70%;
+    margin: 0% 0% 0% 15%;
+    border: none;
+    outline: none;
+    padding: 15px 12px;
+    border-radius: 5px;
+    background-color: var(--button-color);
+    color: var(--text-color);
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 20px;
+}

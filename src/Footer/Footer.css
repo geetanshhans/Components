@@ -1,0 +1,32 @@
+.bottom {
+    background-color: var(--text-color-2);
+    margin: 0;
+    height: 200px;
+    position: absolute;
+    width: 100%;
+}
+.footer {
+    list-style: none;
+    position: relative;
+    top: 5%;
+}
+
+.links {
+    text-decoration: none;
+    color: var(--text-color);
+    display: inline-block;
+    margin: 15px;
+    border-bottom: 3px solid transparent;
+}
+
+.footer .links:hover {
+    color: var(--text-color-1); 
+    transition: color 1s ease 0s;
+    transition: color 1s ease 0s;
+}
+
+.footer .links.active {
+    border-bottom: 3px solid var(--text-color-1);
+    color: var(--text-color-1);
+    transition: border-bottom 1s ease 0s,;
+}

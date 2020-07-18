@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Photographer's Name",
+        "picture": "/1.jpg",
+        "bookmark": false
+    },
+    {
+        "name": "Photographer's Name",
+        "picture": "/2.jpg",
+        "bookmark": true
+    },
+    {
+        "name": "Photographer's Name",
+        "picture": "/3.jpg",
+        "bookmark": false
+    },
+    {
+        "name": "Photographer's Name",
+        "picture": "/4.jpg",
+        "bookmark": true
+    },
+    {
+        "name": "Photographer's Name",
+        "picture": "/5.jpg",
+        "bookmark": true
+    },
+    {
+        "name": "Photographer's Name",
+        "picture": "/6.jpg",
+        "bookmark": true
+    }
+]

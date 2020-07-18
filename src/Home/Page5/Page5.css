@@ -1,0 +1,12 @@
+.phone_set {
+    max-width: 100%;
+}
+
+.app_head {
+    color: var(--text-color-1);
+    font-weight: bolder;
+    font-size: 150%;
+    position: absolute;
+    left: 100px;
+    top: 3000px;
+}
