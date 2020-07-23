@@ -8,15 +8,26 @@ import logo from "../Assets/logo.png"
 import Account from "../Account/Account";
 
 class Toolbar extends Component {
+    state = {
+        someColor : ""
+    }
+    
+    componentDidMount(){
+        document.addEventListener("scroll", () => {
+            const backgroundcolor = window.scrollY < 70 ? "" : "blue";
+      
+            this.setState({ someColor: backgroundcolor });
+          });
+    }
     render() {
             
         return (
             <div>
                 <div>
-                <img src={logo} className="logo" />
-                <p className="name">GetPIX</p>
+                <img src={logo} className="logo" alt = "logo"/>
+                <p className="name" >GetPIX</p>
                 </div>
-                <ul className="bar">
+                <ul className="bar" style = {{backgroundColor : `${this.state.someColor}`}}>
                     <Link to="/" className="link"> <li>Home</li> </Link>
                     <Link to="/book" className="link"> <li>Book Photographer</li> </Link>
                     <Link to="/gallery" className="link"> <li>Gallery</li> </Link>
