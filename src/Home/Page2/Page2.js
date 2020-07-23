@@ -35,10 +35,10 @@ class Page2 extends Component {
                         return <Portfolio key={i} name={Mention.name} source={require("../../Assets" + Mention.image)} />
                     })}
                 </div>
-                <button className="arrow" onClick={forward}>
+                 <button className="arrow" onClick={forward} disabled = {this.state.index === (this.state.length-1)} >
                     <i className="fa fa-angle-right" style={{ fontSize: "48px" }}></i>
                 </button>
-                <button className="arrow1" onClick={reverse}>
+                <button className="arrow1" onClick={reverse} disabled = {this.state.index === 0}>
                     <i className="fa fa-angle-left" style={{ fontSize: "48px" }}></i>
                 </button>
                 <hr />
